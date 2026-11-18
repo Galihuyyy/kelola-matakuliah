@@ -1,4 +1,4 @@
-###🚀 Getting Started
+### 🚀 Getting Started
 
 Ikuti langkah-langkah berikut untuk mendapatkan dan menjalankan project ini.
 
